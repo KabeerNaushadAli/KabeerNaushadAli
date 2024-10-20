@@ -13,9 +13,8 @@
 
 ## Data Analytics Projects 
 
-1. Maven Market Sales Insights Dashboard :
-- [GitHub Repository Link](https://github.com/KabeerNaushadAli/Power-BI)
-- [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNDRiMGM3ZTktNDZkOC00ODY2LWFkZGQtZTFkMjhhOWYyNjliIiwidCI6IjU2OGU1ZDUxLTgyMGEtNGJkYS1hZDY2LWMwNGVjZWJjZDAyMyIsImMiOjEwfQ%3D%3D)
+- [Maven Market Sales Insights Dashboard](https://github.com/KabeerNaushadAli/Power-BI)
+
 
 
 More projects to come! I’m continually learning and developing new skills in data analytics, and I look forward to sharing more projects as I expand my portfolio.
