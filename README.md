@@ -1,3 +1,5 @@
+# 🙌 Hola, Hola and Hello Eveerybody 
+
 ## Who I Am
 
 👋 Hi, I'm Kabeer Naushad Ali, a curious and driven data enthusiast with a passion for uncovering insights and solving real-world problems through data analytics and consulting. I graduated with First Class Honours in Statistics from Universiti Putra Malaysia, where I developed a love for data visualization, statistical modeling, and automation.
