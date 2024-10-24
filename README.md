@@ -1,4 +1,4 @@
-# 🙌 Hola, Hola and Hello Eveerybody 
+# 🙌 Hola, Hola and Hello Everybody 
 
 ## Who I Am
 
