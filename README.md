@@ -29,4 +29,5 @@ The research focuses on improving prediction accuracy in medical data analysis b
 [Read the full paper here](https://ejournal.unimap.edu.my/index.php/amci/article/view/330)
 
 ## Currently
-He guys, I am currently learning SQL in detail to level up my skills. Hoping to come up with some projects soon!!!
+He guys, I am currently doing my masters in Monash University, Australia. I am studying Masters of Data Science, and will be graduating on 2027. 
+
